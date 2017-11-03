@@ -1,0 +1,32 @@
+.standimage {
+    height: 200px;
+    margin-right: 1%;
+}
+.shrikhand {
+    font-family: "pacificco", cursive;
+}
+.nabar-brand {
+    font-family: "pacifico", cursive;
+    color: white;
+}
+body {
+    background-image: linear-gradient(120deg, #84fabab0 0%, #8fd3f4 200%);
+}
+.navbar-inverse
+{
+    border-radius:0px;
+    width: 100%;
+}
+/* override the bootstrap style*/
+blockquote {
+    border-left: none;
+}
+
+blockquote:before{
+display: block;
+padding-left: 10px;
+content: "\201C";
+font-size: 80px;
+position
+
+}
